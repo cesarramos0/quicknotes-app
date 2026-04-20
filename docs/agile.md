@@ -83,3 +83,8 @@ Kanban no impone roles fijos ni ciclos de tiempo definidos. El trabajo fluye de 
 - Se quiere optimizar el flujo y reducir los cuellos de botella.
 - El proyecto es pequeño o el equipo trabaja solo o en pareja.
 
+---
+
+## Conclusión
+
+Tanto Agile, Scrum y Kanban comparten el mismo objetivo: entregar software de valor de forma eficiente y adaptable. La diferencia está en el nivel de estructura que cada uno impone. Scrum es más prescriptivo y ordenado, mientras que Kanban es más flexible y visual. En muchos equipos reales se usan combinaciones de ambos, lo que se conoce como **Scrumban**.
