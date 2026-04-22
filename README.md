@@ -2,6 +2,11 @@
 
 Aplicación fullstack para gestionar notas con mejoras mediante IA.
 
+## 🚀 Demo
+
+- **Frontend:** https://tu-url.vercel.app
+- **Backend:** https://tu-url.render.com
+
 ## Stack
 - Frontend: React + TypeScript + Tailwind CSS
 - Backend: Node.js + Express
