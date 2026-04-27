@@ -4,8 +4,7 @@ Aplicación fullstack para gestionar notas con mejoras mediante IA.
 
 ## 🚀 Demo
 
-- **Frontend:** https://tu-url.vercel.app
-- **Backend:** https://tu-url.render.com
+- Vercel: [Web](https://quicknotes-app-theta.vercel.app/)
 
 ## Stack
 - Frontend: React + TypeScript + Tailwind CSS
